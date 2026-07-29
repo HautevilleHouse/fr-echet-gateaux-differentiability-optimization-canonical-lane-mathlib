@@ -1,0 +1,2 @@
+import FrEchetGateauxDifferentiabilityOptimizationCanonicalLaneLean.GateLemmas
+import FrEchetGateauxDifferentiabilityOptimizationCanonicalLaneLean.FinalTheorem
